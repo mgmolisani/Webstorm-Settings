@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="LessonTabs" type="JavaScript" />
+      <mapping pattern="Topics" type="JavaScript" />
+      <mapping pattern="style" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>

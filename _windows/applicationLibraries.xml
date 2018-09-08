@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/angular" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/angular-ui-router" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/marked" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
