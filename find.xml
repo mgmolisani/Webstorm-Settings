@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'final-project-app-client'" />
-    <option name="defaultScopeName" value="Project 'final-project-app-client'" />
+    <option name="customScope" value="File '...\packages\rich-text-html-renderer\src\__test__\documents\embedded-entry.js [rich-text]'" />
+    <option name="defaultScopeName" value="File '...\packages\rich-text-html-renderer\src\__test__\documents\embedded-entry.js [rich-text]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'final-project-app-client'" />
+    <option name="SEARCH_SCOPE" value="File '...\packages\rich-text-html-renderer\src\__test__\documents\embedded-entry.js [rich-text]'" />
   </component>
 </application>
