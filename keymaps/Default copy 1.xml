@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+</keymap>
