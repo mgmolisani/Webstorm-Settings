@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="style" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="index" type="XHTML" />
     </extensionMap>
   </component>
